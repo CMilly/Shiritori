@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/cameron/Documents/Development/C++/Shiritori/main.cpp
+iostream
+-
+fstream
+-
+vector
+-
+algorithm
+-
+bits/stdc++.h
+-
+
